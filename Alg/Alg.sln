@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EvenAndOdd", "EvenAndOdd\Ev
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderedApp", "OrderedApp\OrderedApp.csproj", "{FAF2F0B5-8599-40FF-BCBC-DBBC5A8B0AFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSortApp", "BubbleSortApp\BubbleSortApp.csproj", "{DA3665BD-0CB7-47E5-90F3-D323F47D39BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BubbleSortApp", "BubbleSortApp\BubbleSortApp.csproj", "{DA3665BD-0CB7-47E5-90F3-D323F47D39BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{CEDA852C-6DF0-4DC8-BA09-A0ADA312AA96}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{DA3665BD-0CB7-47E5-90F3-D323F47D39BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA3665BD-0CB7-47E5-90F3-D323F47D39BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA3665BD-0CB7-47E5-90F3-D323F47D39BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEDA852C-6DF0-4DC8-BA09-A0ADA312AA96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEDA852C-6DF0-4DC8-BA09-A0ADA312AA96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEDA852C-6DF0-4DC8-BA09-A0ADA312AA96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEDA852C-6DF0-4DC8-BA09-A0ADA312AA96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
