@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BubbleSortApp", "BubbleSort
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculator", "Calculator\Calculator.csproj", "{CEDA852C-6DF0-4DC8-BA09-A0ADA312AA96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertSortApp", "InsertSortApp\InsertSortApp.csproj", "{EEF7771B-830E-4FD8-8DE7-2AF3748EA2D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InsertSortApp", "InsertSortApp\InsertSortApp.csproj", "{EEF7771B-830E-4FD8-8DE7-2AF3748EA2D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddAndEvenNymbers", "OddAndEvenNymbers\OddAndEvenNymbers.csproj", "{FFDCD35A-B0A3-4733-AFB8-C0D3838587C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{EEF7771B-830E-4FD8-8DE7-2AF3748EA2D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EEF7771B-830E-4FD8-8DE7-2AF3748EA2D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EEF7771B-830E-4FD8-8DE7-2AF3748EA2D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFDCD35A-B0A3-4733-AFB8-C0D3838587C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFDCD35A-B0A3-4733-AFB8-C0D3838587C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFDCD35A-B0A3-4733-AFB8-C0D3838587C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFDCD35A-B0A3-4733-AFB8-C0D3838587C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
