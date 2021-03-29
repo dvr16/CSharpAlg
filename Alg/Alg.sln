@@ -17,9 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculator", "Calculator\Ca
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InsertSortApp", "InsertSortApp\InsertSortApp.csproj", "{EEF7771B-830E-4FD8-8DE7-2AF3748EA2D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddAndEvenNymbers", "OddAndEvenNymbers\OddAndEvenNymbers.csproj", "{FFDCD35A-B0A3-4733-AFB8-C0D3838587C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OddAndEvenNymbers", "OddAndEvenNymbers\OddAndEvenNymbers.csproj", "{FFDCD35A-B0A3-4733-AFB8-C0D3838587C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectSortApp", "ObjectSortApp\ObjectSortApp.csproj", "{933B6FE7-3774-4B28-8F16-79F756E479CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObjectSortApp", "ObjectSortApp\ObjectSortApp.csproj", "{933B6FE7-3774-4B28-8F16-79F756E479CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackApp", "StackApp\StackApp.csproj", "{10AD0135-9E77-425C-A82E-56AB0497545C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{933B6FE7-3774-4B28-8F16-79F756E479CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{933B6FE7-3774-4B28-8F16-79F756E479CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{933B6FE7-3774-4B28-8F16-79F756E479CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10AD0135-9E77-425C-A82E-56AB0497545C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10AD0135-9E77-425C-A82E-56AB0497545C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10AD0135-9E77-425C-A82E-56AB0497545C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10AD0135-9E77-425C-A82E-56AB0497545C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
