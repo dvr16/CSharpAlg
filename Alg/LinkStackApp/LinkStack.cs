@@ -1,0 +1,37 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace LinkStackApp
+{
+    class LinkStack
+    {
+        private LinkList theList;
+
+        public LinkStack() // Конструктор
+        {
+            theList = new LinkList();
+        }
+
+        public void push(long j) // Размещение элемента на вершине стека
+        {
+            theList.insertFirst(j);
+        }
+
+        public long pop() // Извлечение элемента с вершины стека
+        {
+            return theList.deleteFirst();
+        }
+
+        public bool isEmpty() // true, если стек пуст
+        {
+            return (theList.isEmpty());
+        }
+
+        public void displayStack()
+        {
+            Console.WriteLine("Stack (top-->bottom): ");
+            theList.displayList();
+        }
+    }
+}
